@@ -2,7 +2,8 @@
     "name": "KPoolManagerEditor",
     "rootNamespace": "",
     "references": [
-        "KPoolManager"
+        "KPoolManager",
+        "EditorUtil"
     ],
     "includePlatforms": [
         "Editor"
